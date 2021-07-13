@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbath
 - 👀 I’m interested in coding, soccer & food
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS & Cloud Devops
 - 📫 How to reach me  - craigbath@outlook.com
 
 <!---

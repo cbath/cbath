@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cbath
-- 👀 I’m interested in coding, soccer & food
+- 👀 I’m interested in coding, soccer & rock climbing
 - 🌱 I’m currently learning React JS & Cloud Devops
 - 📫 How to reach me  - craigbath@outlook.com
 

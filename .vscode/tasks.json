@@ -1,0 +1,77 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+
+    // Override the default shell (https://stackoverflow.com/questions/54810355/how-to-run-task-in-another-terminal-with-vscode-integrated-terminal)
+    "windows": {
+        "options": {
+            "shell": {
+                "executable": "wsl.exe"
+            }
+        }
+    },
+    "tasks": [
+        {
+            "label": "Git: Delete Remote & Local Tags",
+            "type": "shell",
+            "command": "git fetch --prune --prune-tags && export TAGS=$(git tag|grep  ${input:tagSearch}) && git push ${REMOTE_NAME:-origin} --delete $TAGS && git tag -d $TAGS",
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            }
+        },
+        // Jekyll Documentation (Only running on wsl currently)
+        {
+            "label": "Jekyll: Start documentation service",
+            "type": "shell",
+            "command": "docker-compose build -- jekyll-docs && docker container run -it -p 4000:4000  --mount type=bind,source=$(pwd)/,target=/srv/jekyll/ jekyll-docs",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {   
+            "label": "Jekyll: Install on linux locally",
+            "type": "shell",
+            "command": "sudo apt-get install -y ruby-full build-essential zlib1g-dev && sudo gem install jekyll bundler",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Jekyll: Update Gems on linux Locally",
+            "type": "shell",
+            "command": "sudo bundler update && sudo bundler install",
+            "group": {
+            "kind": "build",
+            "isDefault": true
+            }
+        },
+        {
+            "label": "Jekyll: Serve Site Locally",
+            "type": "shell",
+            "command": "sudo bundler exec jekyll serve --livereload",
+            "group": {
+            "kind": "build",
+            "isDefault": true
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "containerID",
+            "description": "Container ID:",
+            "default": "",
+            "type": "promptString"
+        },
+        {
+            "id": "tagSearch",
+            "description": "Tag Pattern:",
+            "default": "beta",
+            "type": "promptString"
+        }
+    ]
+}

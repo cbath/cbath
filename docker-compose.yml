@@ -1,0 +1,16 @@
+#Setup
+version: '3.8'  
+  
+services:
+  jekyll-docs:
+    hostname: jekyll-docs
+    image: jekyll-docs
+    build:
+      context: .
+      dockerfile: jekyll.Dockerfile
+    ports:
+      - 9000:4000
+    # only for local use
+    #volumes:
+    #  - /docs:/srv/jekyll/docs/
+    #  - ./_config.yml:/srv/jekyll/_config.yml

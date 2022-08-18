@@ -12,7 +12,7 @@ permalink: /DX
   - VS Code
   - GitHub
 - Where do they want to
-- How to maximise the ones they want to with integrations and automation
+- How to maximize the ones they want to with integrations and automation
 
 ### Small but Every Day
 

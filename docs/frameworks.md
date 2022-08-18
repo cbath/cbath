@@ -1,10 +1,10 @@
 ---
-title: Explanation
-nav_order: 5
+title: Building Frameworks
+nav_order: 1
 has_children: true
-permalink: /explanation
+permalink: /frameworks
 ---
 
-## How To
+## Building Frameworks
 
 This is where house all the general "how to" guides relating to development on the prelytix-backend project.

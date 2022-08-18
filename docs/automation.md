@@ -10,3 +10,4 @@ permalink: /automation
 - What can be automated
 - What should be automated
 - How to prioritise this
+- Policing

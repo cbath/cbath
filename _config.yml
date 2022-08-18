@@ -18,7 +18,7 @@ title: Craig Bath
 description: Resume & Collection of Notes and Guides from over the years
 remote_theme: pmarsceill/just-the-docs   # Need just remote theme for GitHub. Locally we can add to our Gemfile to make sure we install  (https://stackoverflow.com/questions/56464757/trouble-implementing-specifically-just-the-docs-theme-using-jekyll)
 #theme: just-the-docs                      
-logo: /assets/logo.jpg  
+logo: /assets/profile_pic.jpg 
 
 #baseurl: /docs                       # the subpath of your site, e.g. /blog
 #url: https://px-dev.mrpfd.com        # the base hostname & protocol for your site, e.g. http://example.com
@@ -129,7 +129,7 @@ jekyll-spaceship:
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "//github.com/spicyparrot/engineering-template"
+    - "//github.com/cbath"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

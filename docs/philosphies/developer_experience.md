@@ -19,7 +19,6 @@ permalink: /DX
 - variable and column names
 - what is easy to select and search in VS Code
 
-
 ### Documentation
 
 Risk of drift

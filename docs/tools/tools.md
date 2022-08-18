@@ -11,13 +11,17 @@ permalink: /tools
 - GitHub
 - Jira
 - VS Code
-- Codespaces
+- GitHub Codespaces
 - GitHub Actions
 - Terraform
 - Packer
 - Ansible
 - GitHub Pages
 - AWS
+
+## Selecting Tools
+
+- vendor lock vs lower maintenance 
 
 ### VS Code
 

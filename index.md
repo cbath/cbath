@@ -17,3 +17,5 @@ nav_order: 1
 ## Welcome
 
 Welcome to my website. This a home for my resume along with a collection of tools, artcitles and general thoughts on areas of development I have taken part it.
+
+Feel free to contact me on LinkedIn - <https://www.linkedin.com/in/craig-bath/>

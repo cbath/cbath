@@ -4,14 +4,6 @@ nav_order: 2
 permalink: /resume
 ---
 
-## Contact Details
-
-Current Location: Philadelphia, PA, United States.
-
-Telephone: +447581442735 (Global) / +126777401116 (US)
-
-Email: craigbath@outlook.com GitHub: https://github.com/cbath
-
 ## Profile
 
 Determined to continually build on my existing portfolio of skills, I welcome the challenge of learning new technologies and methods that will improve both my technical and business solutions.

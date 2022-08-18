@@ -20,3 +20,5 @@ permalink: /versioning
 #### Pull Requests
 
 - Enforce PR title
+- Enforce unit tests
+- 

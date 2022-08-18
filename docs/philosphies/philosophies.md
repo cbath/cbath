@@ -1,13 +1,13 @@
 ---
-title: Developerment Philosophies
+title: Philosophies
 nav_order: 6
 has_children: true
 permalink: /philosophy
 ---
 
-## Developerment Philosophies
+## Development Philosophies
 
-- Templatise
+- Template
   - dev --> qa --> prod
 - Configuration based architecture
 - Functional programming

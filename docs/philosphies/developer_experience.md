@@ -1,7 +1,7 @@
 ---
 title: Developer Experience
 nav_order: 5
-parent: Developerment Philosophies
+parent: Philosophies
 permalink: /DX
 ---
 
@@ -28,4 +28,4 @@ Keep close to the code
 Other forms of documentation:
 
 - comments
-- explanorty variables
+- explanatory variables

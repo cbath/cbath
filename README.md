@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @cbath
-- 👀 I’m interested in coding, soccer & rock climbing
-- 🌱 I’m currently learning React JS & Cloud Devops
-- 📫 How to reach me  - craigbath@outlook.com
+# Hello I am Craig!
 
-<!---
-cbath/cbath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![cbath's github stats](https://github-readme-stats.vercel.app/api?username=cbath&show_icons=true&theme=dracula)

@@ -5,11 +5,20 @@
 [![Linkedin: cbath](https://img.shields.io/badge/-cbath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craig-bath/)](https://www.linkedin.com/in/craig-bath/)
 [![GitHub cbath](https://img.shields.io/github/followers/cbath?label=follow&style=social)](https://github.com/cbath)
 
-🔭 &nbsp;I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>\
-🌱 I’m currently migrating environments to the cloud with k8s.\
-🥅 My goal is to create DRY frameworks that are easy to re-use and expand\
-🎯 My side project is creating a homelab with a cluster of single board computers and `k3s`\
-💬 &nbsp;Ask me about anything related to `Containerization`, `Cloud Computing`, `Event Driven Architecture`, `CI/CD`\
+🔭 I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>
+
+🌱 I’m currently migrating environments to the cloud with k8s.
+
+🥅 My goal is to create DRY frameworks that are easy to re-use and expand
+
+🎯 My side project is creating a homelab with a cluster of single board computers and `k3s`
+
+💬 Ask me about anything related to:
+
+- Containerization
+- Cloud Computing
+- Event Driven Architecture
+- CI/CD
 
 ```python
 global craig_map

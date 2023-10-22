@@ -1,6 +1,5 @@
 ## Hi, I'm Craig Bath! <a><img src="https://media.giphy.com/media/HVFyuAzKcC616jnpq7/giphy.gif" width="5%"></a>
 
-
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI5YXZlcHloZmI3YWMzN2hjOHB3eDg5cndkbW84ZzkzY2c2eTYybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
 [![Linkedin: cbath](https://img.shields.io/badge/-cbath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craig-bath/)](https://www.linkedin.com/in/craig-bath/)

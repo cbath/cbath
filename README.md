@@ -8,7 +8,7 @@
 🔭 &nbsp;I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>\
 🌱 I’m currently migrating environments to the cloud with k8s.\
 🥅 My goal is to create DRY frameworks that are easy to re-use and expand\
-🎯 My side project is creating a homelab with a cluster of single board computers and `k3s`
+🎯 My side project is creating a homelab with a cluster of single board computers and `k3s`\
 💬 &nbsp;Ask me about anything related to `Containerization`, `Cloud Computing`, `Event Driven Architecture`, `CI/CD`\
 
 ```python

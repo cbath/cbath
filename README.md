@@ -17,8 +17,6 @@
 ```python
 global craig_map
 craig_map = {
-    'pronouns': ['he/him'],
-    'side_project': '',
     'architecture': ['microservices', 'event-driven', 'design system pattern'],
     'security': ['SAST','DAST','SCA'],
     'cloud': ['AWS'],

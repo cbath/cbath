@@ -21,8 +21,7 @@
 - CI/CD
 
 ```python
-global craig_map
-craig_map = {
+craig_config = {
     'architecture': ['microservices', 'event-driven', 'design system pattern'],
     'security': ['SAST','DAST','SCA'],
     'cloud': ['AWS'],

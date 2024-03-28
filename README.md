@@ -22,7 +22,7 @@
 
 ```python
 craig_config = {
-    'architecture': ['microservices', 'event-driven', 'design system pattern'],
+    'architecture': ['microservices', 'event-driven', 'auto-scaling', 'self-healing'],
     'security': ['SAST','DAST','SCA'],
     'cloud': ['AWS'],
     'patterns': ['Shift Left','GitOps','Configuration Based Design','Functional Programming'],

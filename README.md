@@ -7,7 +7,7 @@
 
 🔭 I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>
 
-🌱 I’m currently migrating terraform HCL to python CDK.
+🌱 I’m currently migrating terraform HCL to CDK and python.
 
 🥅 My goal is to create DRY frameworks that are easy to re-use and expand
 

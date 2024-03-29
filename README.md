@@ -30,7 +30,7 @@ craig_config = {
     'development': {
         'coding': ['Python','Shell','kdb+'],
         'containerisation': ['Docker'],
-        'orchestration': ['Docker Swarm','Kubernetes', Helm'],
+        'orchestration': ['Docker Swarm','Kubernetes', 'Helm'],
         'ci_cd': ['GitHub Actions','Ansible'],
         'iac': ['Terraform', 'Packer', 'Cloudformation']
     }

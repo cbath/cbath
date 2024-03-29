@@ -7,7 +7,7 @@
 
 🔭 I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>
 
-🌱 I’m currently migrating environments to the cloud with k8s.
+🌱 I’m currently migrating terraform HCL to python CDK.
 
 🥅 My goal is to create DRY frameworks that are easy to re-use and expand
 
@@ -22,14 +22,16 @@
 
 ```python
 craig_config = {
-    'architecture': ['microservices', 'event-driven', 'auto-scaling', 'self-healing'],
+    'architecture': ['microservices', 'event-driven', 'elastic'],
     'security': ['SAST','DAST','SCA'],
     'cloud': ['AWS'],
+    'os': ['linux'],
     'patterns': ['Shift Left','GitOps','Configuration Based Design','Functional Programming'],
-    'coding': {
-        'languages': ['Python','Shell','kdb+'],
-        'containerisation': ['Docker','Docker Swarm','Kubernetes'],
-        'cicd': ['GitHub Actions','Ansible'],
+    'development': {
+        'coding': ['Python','Shell','kdb+'],
+        'containerisation': ['Docker'],
+        'orchestration': ['Docker Swarm','Kubernetes', Helm'],
+        'ci_cd': ['GitHub Actions','Ansible'],
         'iac': ['Terraform', 'Packer', 'Cloudformation']
     }
 }

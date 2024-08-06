@@ -5,8 +5,6 @@
 [![Linkedin: cbath](https://img.shields.io/badge/-cbath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craig-bath/)](https://www.linkedin.com/in/craig-bath/)
 [![GitHub cbath](https://img.shields.io/github/followers/cbath?label=follow&style=social)](https://github.com/cbath)
 
-🔭 I’m a senior DevOps engineer at <a href="https://kx.com/">KX Systems</a>
-
 🌱 I’m currently migrating terraform HCL to CDK and python.
 
 🥅 My goal is to create DRY frameworks that are easy to re-use and expand

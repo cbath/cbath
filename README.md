@@ -19,7 +19,7 @@
 - CI/CD
 
 ```python
-craig_config = {
+config = {
     'architecture': ['microservices', 'event-driven', 'elastic'],
     'security': ['SAST','DAST','SCA'],
     'cloud': ['AWS'],
@@ -28,7 +28,7 @@ craig_config = {
     'development': {
         'coding': ['Python','Shell','kdb+'],
         'containerisation': ['Docker'],
-        'orchestration': ['Docker Swarm','Kubernetes', 'Helm'],
+        'orchestration': ['Docker Swarm','Kubernetes', 'Helm', "ECS],
         'ci_cd': ['GitHub Actions','Ansible'],
         'iac': ['Terraform', 'Packer', 'Cloudformation']
     }

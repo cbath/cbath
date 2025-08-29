@@ -5,11 +5,9 @@
 [![Linkedin: cbath](https://img.shields.io/badge/-cbath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craig-bath/)](https://www.linkedin.com/in/craig-bath/)
 [![GitHub cbath](https://img.shields.io/github/followers/cbath?label=follow&style=social)](https://github.com/cbath)
 
-🌱 I’m currently migrating terraform HCL to CDK and python.
-
 🥅 My goal is to create DRY frameworks that are easy to re-use and expand
 
-🎯 My side project is creating a homelab with a cluster of single board computers and `k3s`
+🎯 My side project is creating a homelab with a cluster of single board computers and `k8s`
 
 💬 Ask me about anything related to:
 
